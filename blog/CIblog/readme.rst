@@ -3,8 +3,7 @@ Welcom in Blog
 ###################
 
 training Build a CodeIgniter PHP App
-CodeIgniter is an Application Development Framework - a toolkit - for people
-
+This idea is inspired by an old thought from blog too
 
 ###################
 Usage
